@@ -1,0 +1,71 @@
+
+body{
+  margin:0;  
+  padding:0;
+
+
+}
+.outer{
+   text-align: center;
+   padding:20px;
+}
+.page{
+   width:800px;
+   height:95vh;
+   display: inline-block;
+   text-align:left;
+   padding:10px;
+   background-color: white;
+}
+a{
+  color:black;
+  font-size:16px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right:50px;
+}
+
+a:hover {
+  color:red;  
+ }
+  a:active {
+  color:#CCC;
+}
+.nav{
+  font-family: sans-serif;
+   margin-left:10px;
+   margin-top:10px;
+   text-align: right;
+}
+
+    .outer{
+      text-align: center;
+    }
+
+    .page{
+      max-width:850px;
+      display: inline-block;
+      text-align:center; 
+      padding:10px;
+    }
+
+    .headline{
+      font-weight:900;
+      font-size:36px;
+      text-transform: uppercase;
+    }
+
+    .subhead{
+      font-weight:400;
+      font-size:24px;
+      text-transform: uppercase;
+    }
+
+    .indent{
+      display: block;
+      margin-left:150px;
+    }
+
+
+  
+	  
